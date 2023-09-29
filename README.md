@@ -1,5 +1,5 @@
 # Project Template
-Team Members: 
+Team Members: Jade Kessinger, Ryan Nguyen, Lillian Vernooy
 
 This document is intended to keep track of setup information or other details needed to use this notebook.
 
