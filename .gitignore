@@ -133,3 +133,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# What even is this brah
+.DS_Store
