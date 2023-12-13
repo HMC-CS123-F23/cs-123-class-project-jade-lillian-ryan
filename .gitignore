@@ -1,9 +1,6 @@
 # Test files
 test.py
 
-# Output image
-*.png
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
